@@ -1,4 +1,4 @@
-# YahooFinance
+# Finvest data from YahooFinance
 Collects real-time intraday data from Global Financial markets. No API or registration reqired. The latest version includes pools of: Currencies, Commodities, Cryptocurrencies [TBD], World Indices [TBD], US Treasury Bonds Rates [TBD]. Fast, reliable, but limited to processing one pool at a time
 
 # How it works?
